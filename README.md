@@ -79,15 +79,6 @@ scalable, and user-friendly web applications.
 - Gain real-world development experience
 - Continuously improve my technical skills
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itssameer666&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itssameer666&layout=compact&theme=tokyonight)
-
----
 
 ## 🔥 GitHub Streak
 
